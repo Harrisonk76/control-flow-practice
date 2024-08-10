@@ -1,1 +1,2 @@
 # personal-practice
+# jsfundamentals.js

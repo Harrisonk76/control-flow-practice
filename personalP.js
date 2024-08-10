@@ -36,7 +36,7 @@ let newData = []
 
 for (let i =1;i<data.length;i++){
   let row = data[i]
-console.log(row)++
+console.log(row)
   let obj = {}
   obj.id = row[0]
   obj.name= row[1]
